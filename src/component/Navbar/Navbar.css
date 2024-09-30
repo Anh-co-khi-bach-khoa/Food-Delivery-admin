@@ -5,8 +5,11 @@
     align-items: center;
 }
 
-.navbar .logo{
-    width: max(10%, 80px);
+.navbar .logo h1{
+    color: #e74c3c;
+}
+.navbar .logo h4{
+    color: dimgray;
 }
 
 .navbar .profile{
